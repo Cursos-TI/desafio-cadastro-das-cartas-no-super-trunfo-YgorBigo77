@@ -75,7 +75,8 @@ int main() {
     printf(" Por favor insira a quantidade de pontos turisticos: \n");
     scanf("%d", npontoturistico_2);
 
-    
+
+
     // Exibição dos dados cadastrados:
 
     
