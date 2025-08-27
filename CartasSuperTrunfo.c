@@ -25,7 +25,7 @@ int main() {
 
     // O bloco abaixo será utilizado para recebimento dos dados da carta 1.
 
-    printf("As informações solicitadas a seguir são para o cadastrado da primeira carta \n ");
+    printf("As informações solicitadas serão para o cadastrado da primeira carta \n ");
     
     printf(" Por favor insira o nome do Estado: \n");
     scanf("%s", estado_1);
@@ -51,7 +51,7 @@ int main() {
     
     // O bloco abaixo é para recebimento dos dados da carta 2.
 
-    printf("As informações solicitadas a seguir são para o cadastrado da segunda carta \n");
+    printf("As informações solicitadas a seguir serão para o cadastrado da segunda carta \n");
     
     printf(" Por favor insira o nome do Estado: \n");
     scanf("%s", estado_2);
